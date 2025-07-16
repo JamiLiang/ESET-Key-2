@@ -1,7 +1,7 @@
-# Generated On: Tuesday, 15 July 2025, 20:16 Tehran (UTC+3:30).
+# Generated On: Wednesday, 16 July 2025, 05:38 Tehran (UTC+3:30).
 
 > [!CAUTION]
-> Triggered by: workflow_dispatch
+> Triggered by: schedule
 
 <br><br>
 
